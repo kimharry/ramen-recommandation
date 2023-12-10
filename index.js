@@ -124,6 +124,11 @@ submit_btn.addEventListener("click", function () {
     }
 
     var recommendation_table = document.getElementById("recommandation-table");
+    recommendation_table.innerHTML = `<tr>
+    <th>Name</th>
+    <th>Sodium</th>
+    <th>Calories</th>
+</tr>`;
     recommendation_table.innerHTML += `<tr>
       <th>${sample_name}</th>
       <th>${sample_sodium}</th>
