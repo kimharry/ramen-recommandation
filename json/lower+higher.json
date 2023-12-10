@@ -21,8 +21,8 @@
       { "name": "뽀로로스파게티", "sodium": 610.0, "calories": 295.0 },
       { "name": "팔도 틈새라면 볶음면 컵", "sodium": 990.0, "calories": 430.0 },
       { "name": "gomgom호로록짜장라면", "sodium": 810.0, "calories": 380.0 },
-      { "name": "일품삼선짜장컵", "sodium": 950.0, "calories": 425.0 },
-      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 }
+      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 },
+      { "name": "아임이 민생짜장", "sodium": 990.0, "calories": 485.0 }
     ]
   },
   {
@@ -82,11 +82,11 @@
     "sodium": 1790.0,
     "calories": 450.0,
     "result": [
-      { "name": "일품해물라면 왕컵", "sodium": 1620.0, "calories": 470.0 },
       { "name": "팔도 왕뚜껑", "sodium": 1690.0, "calories": 475.0 },
       { "name": "새우탕큰사발면", "sodium": 1590.0, "calories": 510.0 },
       { "name": "해물라면컵", "sodium": 1540.0, "calories": 480.0 },
-      { "name": "속초홍게라면", "sodium": 1680.0, "calories": 500.0 }
+      { "name": "속초홍게라면", "sodium": 1680.0, "calories": 500.0 },
+      { "name": "팔도 짬뽕왕뚜껑", "sodium": 1740.0, "calories": 475.0 }
     ]
   },
   {
@@ -110,7 +110,7 @@
       { "name": "팔도비빔면", "sodium": 1090.0, "calories": 530.0 },
       { "name": "팔도왕짬뽕", "sodium": 1700.0, "calories": 545.0 },
       { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 },
-      { "name": "팔도비빔면 스페셜", "sodium": 1680.0, "calories": 545.0 }
+      { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 }
     ]
   },
   {
@@ -168,8 +168,8 @@
       { "name": "팔도 틈새라면 볶음면 컵", "sodium": 990.0, "calories": 430.0 },
       { "name": "팔도비빔면컵", "sodium": 1190.0, "calories": 465.0 },
       { "name": "gomgom호로록짜장라면", "sodium": 810.0, "calories": 380.0 },
-      { "name": "일품삼선짜장컵", "sodium": 950.0, "calories": 425.0 },
-      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 }
+      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 },
+      { "name": "아임이 민생짜장", "sodium": 990.0, "calories": 485.0 }
     ]
   },
   {
@@ -178,10 +178,10 @@
     "calories": 355.0,
     "result": [
       { "name": "팔도 틈새라면 볶음면 컵", "sodium": 990.0, "calories": 430.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "gomgom호로록짜장라면", "sodium": 810.0, "calories": 380.0 },
-      { "name": "아임이 민생짜장", "sodium": 990.0, "calories": 485.0 }
+      { "name": "아임이 민생짜장", "sodium": 990.0, "calories": 485.0 },
+      { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 }
     ]
   },
   {
@@ -190,10 +190,10 @@
     "calories": 490.0,
     "result": [
       { "name": "NEW 공화춘곱빼기", "sodium": 1230.0, "calories": 745.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "짜왕큰사발면", "sodium": 990.0, "calories": 495.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 }
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
+      { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 }
     ]
   },
   {
@@ -254,10 +254,10 @@
     "calories": 500.0,
     "result": [
       { "name": "팔도비빔면", "sodium": 1090.0, "calories": 530.0 },
-      { "name": "팔도비빔면 스페셜", "sodium": 1680.0, "calories": 545.0 },
       { "name": "불닭볶음면", "sodium": 1316.59, "calories": 545.18 },
       { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 },
-      { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 }
+      { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 },
+      { "name": "진비빔면", "sodium": 1400.0, "calories": 625.0 }
     ]
   },
   {
@@ -277,11 +277,11 @@
     "sodium": 1730.0,
     "calories": 440.0,
     "result": [
-      { "name": "일품해물라면 왕컵", "sodium": 1620.0, "calories": 470.0 },
       { "name": "팔도 왕뚜껑", "sodium": 1690.0, "calories": 475.0 },
       { "name": "신라면 큰사발면", "sodium": 1550.0, "calories": 500.0 },
       { "name": "무파마탕면", "sodium": 1720.0, "calories": 510.0 },
-      { "name": "해물라면컵", "sodium": 1540.0, "calories": 480.0 }
+      { "name": "해물라면컵", "sodium": 1540.0, "calories": 480.0 },
+      { "name": "일품해물라면", "sodium": 1640.0, "calories": 505.0 }
     ]
   },
   {
@@ -301,11 +301,11 @@
     "sodium": 1450.0,
     "calories": 405.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "짜왕큰사발면", "sodium": 990.0, "calories": 495.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
-      { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 }
+      { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 },
+      { "name": "짜장 불닭볶음면", "sodium": 1420.0, "calories": 560.0 },
+      { "name": "큰컵 짜장불닭볶음면", "sodium": 1000.0, "calories": 425.0 }
     ]
   },
   {
@@ -314,10 +314,10 @@
     "calories": 380.0,
     "result": [
       { "name": "감자면큰사발면", "sodium": 1450.0, "calories": 405.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
-      { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 }
+      { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 },
+      { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 },
+      { "name": "큰컵 불닭볶음탕면", "sodium": 1500.0, "calories": 455.0 }
     ]
   },
   {
@@ -326,10 +326,10 @@
     "calories": 500.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 }
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 },
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
     ]
   },
   {
@@ -349,11 +349,11 @@
     "sodium": 1550.0,
     "calories": 515.0,
     "result": [
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
-      { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 }
+      { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 },
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
     ]
   },
   {
@@ -362,10 +362,10 @@
     "calories": 495.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "신라면 큰사발면", "sodium": 1550.0, "calories": 500.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 }
+      { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 }
     ]
   },
   {
@@ -377,7 +377,7 @@
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
       { "name": "사리곰탕큰사발면", "sodium": 1590.0, "calories": 490.0 },
       { "name": "신라면 큰사발면", "sodium": 1550.0, "calories": 500.0 },
-      { "name": "튀김우동큰사발면", "sodium": 1590.0, "calories": 515.0 }
+      { "name": "감자탕큰사발면", "sodium": 1590.0, "calories": 485.0 }
     ]
   },
   {
@@ -385,11 +385,11 @@
     "sodium": 1090.0,
     "calories": 515.0,
     "result": [
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
       { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
       { "name": "자연드림 비빔면", "sodium": 1020.0, "calories": 525.0 },
-      { "name": "﻿짜라볶이", "sodium": 990.0, "calories": 530.0 }
+      { "name": "﻿짜라볶이", "sodium": 990.0, "calories": 530.0 },
+      { "name": "짜장볶이", "sodium": 870.0, "calories": 535.0 }
     ]
   },
   {
@@ -415,9 +415,9 @@
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
       { "name": "무파마탕면큰사발면", "sodium": 1570.0, "calories": 495.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "신라면 큰사발면", "sodium": 1550.0, "calories": 500.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 }
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 }
     ]
   },
   {
@@ -431,11 +431,11 @@
     "sodium": 1210.0,
     "calories": 290.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
-      { "name": "짜왕매운맛큰사발면", "sodium": 1020.0, "calories": 470.0 },
-      { "name": "짜왕큰사발면", "sodium": 990.0, "calories": 495.0 },
-      { "name": "튀김우동컵", "sodium": 1200.0, "calories": 315.0 }
+      { "name": "튀김우동컵", "sodium": 1200.0, "calories": 315.0 },
+      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
+      { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
+      { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
+      { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 }
     ]
   },
   {
@@ -444,10 +444,10 @@
     "calories": 510.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 }
+      { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 },
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
     ]
   },
   {
@@ -456,10 +456,10 @@
     "calories": 275.0,
     "result": [
       { "name": "왕뚜껑컵", "sodium": 1050.0, "calories": 285.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "안성탕면컵", "sodium": 1000.0, "calories": 290.0 },
       { "name": "짜왕매운맛큰사발면", "sodium": 1020.0, "calories": 470.0 },
-      { "name": "튀김우동컵", "sodium": 1200.0, "calories": 315.0 }
+      { "name": "튀김우동컵", "sodium": 1200.0, "calories": 315.0 },
+      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 }
     ]
   },
   {
@@ -467,11 +467,11 @@
     "sodium": 1450.0,
     "calories": 440.0,
     "result": [
-      { "name": "짜왕매운맛큰사발면", "sodium": 1020.0, "calories": 470.0 },
       { "name": "짜왕큰사발면", "sodium": 990.0, "calories": 495.0 },
       { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 },
-      { "name": "팔도짜장면 왕컵", "sodium": 960.0, "calories": 515.0 },
-      { "name": "팔도짜장면", "sodium": 1170.0, "calories": 625.0 }
+      { "name": "팔도짜장면", "sodium": 1170.0, "calories": 625.0 },
+      { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 },
+      { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 }
     ]
   },
   {
@@ -479,11 +479,11 @@
     "sodium": 1550.0,
     "calories": 500.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
-      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 }
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 },
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 },
+      { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 }
     ]
   },
   {
@@ -491,11 +491,11 @@
     "sodium": 1530.0,
     "calories": 445.0,
     "result": [
-      { "name": "짜왕매운맛큰사발면", "sodium": 1020.0, "calories": 470.0 },
       { "name": "짜왕큰사발면", "sodium": 990.0, "calories": 495.0 },
       { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 },
       { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 },
-      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 },
+      { "name": "오뚜기 진라면 순한맛", "sodium": 1490.0, "calories": 495.0 }
     ]
   },
   {
@@ -520,10 +520,10 @@
     "calories": 300.0,
     "result": [
       { "name": "팔도 mini 왕뚜껑", "sodium": 1240.0, "calories": 355.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "앵그리짜파구리큰사발면", "sodium": 1230.0, "calories": 500.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 }
+      { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 }
     ]
   },
   {
@@ -543,11 +543,11 @@
     "sodium": 1230.0,
     "calories": 500.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "짜파게티큰사발면", "sodium": 1220.0, "calories": 550.0 },
       { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "올리브짜파게티", "sodium": 1180.0, "calories": 610.0 }
+      { "name": "올리브짜파게티", "sodium": 1180.0, "calories": 610.0 },
+      { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
+      { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 }
     ]
   },
   {
@@ -555,11 +555,11 @@
     "sodium": 1240.0,
     "calories": 290.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "짜왕큰사발면", "sodium": 990.0, "calories": 495.0 },
       { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 }
+      { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
+      { "name": "큰냄비우동", "sodium": 786.56, "calories": 304.0 },
+      { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 }
     ]
   },
   {
@@ -567,11 +567,11 @@
     "sodium": 1590.0,
     "calories": 525.0,
     "result": [
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
-      { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 }
+      { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 },
+      { "name": "양념치킨면", "sodium": 1250.0, "calories": 620.0 }
     ]
   },
   {
@@ -579,11 +579,11 @@
     "sodium": 1590.0,
     "calories": 520.0,
     "result": [
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "짜파게티큰사발면", "sodium": 1220.0, "calories": 550.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
-      { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 }
+      { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 },
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
     ]
   },
   {
@@ -594,8 +594,8 @@
       { "name": "김치사발면", "sodium": 1520.0, "calories": 380.0 },
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
       { "name": "무파마탕면큰사발면", "sodium": 1570.0, "calories": 495.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "신라면 큰사발면", "sodium": 1550.0, "calories": 500.0 }
+      { "name": "신라면 큰사발면", "sodium": 1550.0, "calories": 500.0 },
+      { "name": "특육개장큰사발면", "sodium": 1570.0, "calories": 460.0 }
     ]
   },
   {
@@ -605,9 +605,9 @@
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
       { "name": "무파마탕면큰사발면", "sodium": 1570.0, "calories": 495.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "신라면 큰사발면", "sodium": 1550.0, "calories": 500.0 },
-      { "name": "﻿오징어짬뽕큰사발면", "sodium": 1590.0, "calories": 525.0 }
+      { "name": "﻿오징어짬뽕큰사발면", "sodium": 1590.0, "calories": 525.0 },
+      { "name": "우육탕큰사발면", "sodium": 1590.0, "calories": 520.0 }
     ]
   },
   {
@@ -671,11 +671,11 @@
     "sodium": 1200.0,
     "calories": 315.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "짜왕매운맛큰사발면", "sodium": 1020.0, "calories": 470.0 },
       { "name": "짜왕큰사발면", "sodium": 990.0, "calories": 495.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 }
+      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
+      { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 }
     ]
   },
   {
@@ -683,11 +683,11 @@
     "sodium": 1590.0,
     "calories": 515.0,
     "result": [
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
-      { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 }
+      { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 },
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
     ]
   },
   {
@@ -696,10 +696,10 @@
     "calories": 460.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "신라면 큰사발면", "sodium": 1550.0, "calories": 500.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 }
+      { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 }
     ]
   },
   {
@@ -708,10 +708,10 @@
     "calories": 290.0,
     "result": [
       { "name": "팔도 mini 왕뚜껑", "sodium": 1240.0, "calories": 355.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "짜왕매운맛큰사발면", "sodium": 1020.0, "calories": 470.0 },
-      { "name": "짜왕큰사발면", "sodium": 990.0, "calories": 495.0 },
-      { "name": "튀김우동컵", "sodium": 1200.0, "calories": 315.0 }
+      { "name": "튀김우동컵", "sodium": 1200.0, "calories": 315.0 },
+      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
+      { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
+      { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 }
     ]
   },
   {
@@ -736,10 +736,10 @@
     "calories": 500.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "새우탕큰사발면", "sodium": 1590.0, "calories": 510.0 },
       { "name": "﻿오징어짬뽕큰사발면", "sodium": 1590.0, "calories": 525.0 },
-      { "name": "우육탕큰사발면", "sodium": 1590.0, "calories": 520.0 }
+      { "name": "우육탕큰사발면", "sodium": 1590.0, "calories": 520.0 },
+      { "name": "튀김우동큰사발면", "sodium": 1590.0, "calories": 515.0 }
     ]
   },
   {
@@ -747,11 +747,11 @@
     "sodium": 1720.0,
     "calories": 515.0,
     "result": [
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "﻿오징어짬뽕큰사발면", "sodium": 1590.0, "calories": 525.0 },
       { "name": "우육탕큰사발면", "sodium": 1590.0, "calories": 520.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
-      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 }
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 }
     ]
   },
   {
@@ -759,11 +759,11 @@
     "sodium": 1090.0,
     "calories": 515.0,
     "result": [
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
       { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
       { "name": "자연드림 비빔면", "sodium": 1020.0, "calories": 525.0 },
-      { "name": "﻿짜라볶이", "sodium": 990.0, "calories": 530.0 }
+      { "name": "﻿짜라볶이", "sodium": 990.0, "calories": 530.0 },
+      { "name": "짜장볶이", "sodium": 870.0, "calories": 535.0 }
     ]
   },
   {
@@ -774,8 +774,8 @@
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
       { "name": "무파마탕면큰사발면", "sodium": 1570.0, "calories": 495.0 },
       { "name": "신라면 큰사발면", "sodium": 1550.0, "calories": 500.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 }
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 }
     ]
   },
   {
@@ -784,14 +784,14 @@
     "calories": 500.0,
     "result": [
       { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
-      { "name": "﻿오징어짬뽕큰사발면", "sodium": 1590.0, "calories": 525.0 },
       { "name": "튀김우동큰사발면", "sodium": 1590.0, "calories": 515.0 },
       {
         "name": "앵그리알티에이(RtA)큰사발면",
         "sodium": 1720.0,
         "calories": 515.0
       },
-      { "name": "무파마탕면", "sodium": 1720.0, "calories": 510.0 }
+      { "name": "무파마탕면", "sodium": 1720.0, "calories": 510.0 },
+      { "name": "오징어짬뽕", "sodium": 1750.0, "calories": 510.0 }
     ]
   },
   {
@@ -822,10 +822,10 @@
     "calories": 510.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "﻿오징어짬뽕큰사발면", "sodium": 1590.0, "calories": 525.0 },
       { "name": "우육탕큰사발면", "sodium": 1590.0, "calories": 520.0 },
-      { "name": "튀김우동큰사발면", "sodium": 1590.0, "calories": 515.0 }
+      { "name": "튀김우동큰사발면", "sodium": 1590.0, "calories": 515.0 },
+      { "name": "얼큰한너구리", "sodium": 1700.0, "calories": 515.0 }
     ]
   },
   {
@@ -849,8 +849,8 @@
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 },
-      { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 },
-      { "name": "팔도막국수라면", "sodium": 1460.0, "calories": 585.0 }
+      { "name": "팔도막국수라면", "sodium": 1460.0, "calories": 585.0 },
+      { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 }
     ]
   },
   {
@@ -859,14 +859,14 @@
     "calories": 495.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "﻿오징어짬뽕큰사발면", "sodium": 1590.0, "calories": 525.0 },
       { "name": "튀김우동큰사발면", "sodium": 1590.0, "calories": 515.0 },
       {
         "name": "앵그리알티에이(RtA)큰사발면",
         "sodium": 1720.0,
         "calories": 515.0
-      }
+      },
+      { "name": "얼큰한너구리", "sodium": 1700.0, "calories": 515.0 }
     ]
   },
   {
@@ -875,14 +875,14 @@
     "calories": 510.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "우육탕큰사발면", "sodium": 1590.0, "calories": 520.0 },
       { "name": "튀김우동큰사발면", "sodium": 1590.0, "calories": 515.0 },
       {
         "name": "앵그리알티에이(RtA)큰사발면",
         "sodium": 1720.0,
         "calories": 515.0
-      }
+      },
+      { "name": "얼큰한너구리", "sodium": 1700.0, "calories": 515.0 }
     ]
   },
   {
@@ -937,11 +937,11 @@
     "sodium": 1480.0,
     "calories": 500.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
-      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 }
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
+      { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 },
+      { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 }
     ]
   },
   {
@@ -953,7 +953,7 @@
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 },
-      { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 }
+      { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 }
     ]
   },
   {
@@ -971,10 +971,14 @@
     "calories": 505.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "﻿오징어짬뽕큰사발면", "sodium": 1590.0, "calories": 525.0 },
       { "name": "우육탕큰사발면", "sodium": 1590.0, "calories": 520.0 },
-      { "name": "튀김우동큰사발면", "sodium": 1590.0, "calories": 515.0 }
+      { "name": "튀김우동큰사발면", "sodium": 1590.0, "calories": 515.0 },
+      {
+        "name": "앵그리알티에이(RtA)큰사발면",
+        "sodium": 1720.0,
+        "calories": 515.0
+      }
     ]
   },
   {
@@ -1004,11 +1008,11 @@
     "sodium": 1780.0,
     "calories": 515.0,
     "result": [
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "﻿오징어짬뽕큰사발면", "sodium": 1590.0, "calories": 525.0 },
       { "name": "우육탕큰사발면", "sodium": 1590.0, "calories": 520.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
-      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 }
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 }
     ]
   },
   {
@@ -1031,12 +1035,8 @@
       { "name": "감자면큰사발면", "sodium": 1450.0, "calories": 405.0 },
       { "name": "辛라면 BLACK(컵)", "sodium": 1450.0, "calories": 440.0 },
       { "name": "신라면블랙사발", "sodium": 1530.0, "calories": 445.0 },
-      {
-        "name": "신라면블랙사발 두부김치",
-        "sodium": 1710.0,
-        "calories": 400.0
-      },
-      { "name": "튀김우동큰사발면", "sodium": 1590.0, "calories": 515.0 }
+      { "name": "튀김우동큰사발면", "sodium": 1590.0, "calories": 515.0 },
+      { "name": "감자탕큰사발면", "sodium": 1590.0, "calories": 485.0 }
     ]
   },
   {
@@ -1097,10 +1097,10 @@
     "calories": 300.0,
     "result": [
       { "name": "팔도 틈새라면 볶음면 컵", "sodium": 990.0, "calories": 430.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
-      { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 }
+      { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
+      { "name": "애터미우리밀감자라면컵", "sodium": 1000.0, "calories": 321.0 }
     ]
   },
   {
@@ -1124,11 +1124,11 @@
     "sodium": 1540.0,
     "calories": 480.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 },
-      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 }
+      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 },
+      { "name": "아임이 민생짜장", "sodium": 990.0, "calories": 485.0 },
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
     ]
   },
   {
@@ -1179,8 +1179,8 @@
       { "name": "팔도 틈새라면 볶음면 컵", "sodium": 990.0, "calories": 430.0 },
       { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
       { "name": "gomgom호로록짜장라면", "sodium": 810.0, "calories": 380.0 },
-      { "name": "일품삼선짜장컵", "sodium": 950.0, "calories": 425.0 },
-      { "name": "팔도 비빔면 치즈컵", "sodium": 880.0, "calories": 455.0 }
+      { "name": "팔도 비빔면 치즈컵", "sodium": 880.0, "calories": 455.0 },
+      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 }
     ]
   },
   {
@@ -1214,9 +1214,9 @@
     "result": [
       { "name": "팔도 틈새라면 볶음면 컵", "sodium": 990.0, "calories": 430.0 },
       { "name": "gomgom호로록짜장라면", "sodium": 810.0, "calories": 380.0 },
-      { "name": "일품삼선짜장컵", "sodium": 950.0, "calories": 425.0 },
       { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 },
-      { "name": "팔도비비(BB)크림면", "sodium": 1190.0, "calories": 575.0 }
+      { "name": "팔도비비(BB)크림면", "sodium": 1190.0, "calories": 575.0 },
+      { "name": "팔도비빔면", "sodium": 1090.0, "calories": 530.0 }
     ]
   },
   {
@@ -1243,8 +1243,8 @@
       { "name": "NEW 공화춘곱빼기", "sodium": 1230.0, "calories": 745.0 },
       { "name": "NEW 공화춘자장컵", "sodium": 1130.0, "calories": 620.0 },
       { "name": "gomgom호로록짜장라면", "sodium": 810.0, "calories": 380.0 },
-      { "name": "팔도짜장면 왕컵", "sodium": 960.0, "calories": 515.0 },
-      { "name": "팔도 쫄비빔면", "sodium": 1190.0, "calories": 480.0 }
+      { "name": "팔도 쫄비빔면", "sodium": 1190.0, "calories": 480.0 },
+      { "name": "아임이 민생짜장", "sodium": 990.0, "calories": 485.0 }
     ]
   },
   {
@@ -1268,7 +1268,6 @@
     "sodium": 1660.0,
     "calories": 470.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 },
       {
@@ -1276,7 +1275,8 @@
         "sodium": 1520.0,
         "calories": 510.0
       },
-      { "name": "우리밀해물라면", "sodium": 1490.0, "calories": 530.0 }
+      { "name": "우리밀해물라면", "sodium": 1490.0, "calories": 530.0 },
+      { "name": "한살림우리밀라면", "sodium": 1600.0, "calories": 515.0 }
     ]
   },
   {
@@ -1290,11 +1290,11 @@
     "sodium": 1360.0,
     "calories": 430.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "짜왕큰사발면", "sodium": 990.0, "calories": 495.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "채식청정면", "sodium": 1350.0, "calories": 520.0 },
-      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 }
+      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 },
+      { "name": "아임이 민생짜장", "sodium": 990.0, "calories": 485.0 }
     ]
   },
   {
@@ -1511,11 +1511,11 @@
     "sodium": 1150.0,
     "calories": 460.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "짜왕매운맛큰사발면", "sodium": 1020.0, "calories": 470.0 },
       { "name": "짜왕큰사발면", "sodium": 990.0, "calories": 495.0 },
       { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 }
+      { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
+      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 }
     ]
   },
   {
@@ -1580,11 +1580,11 @@
     "sodium": 1770.0,
     "calories": 450.0,
     "result": [
-      { "name": "일품해물라면 왕컵", "sodium": 1620.0, "calories": 470.0 },
       { "name": "해물라면컵", "sodium": 1540.0, "calories": 480.0 },
       { "name": "공화춘 삼선짬뽕", "sodium": 1690.0, "calories": 505.0 },
       { "name": "공화춘 아주매운짬뽕", "sodium": 1730.0, "calories": 500.0 },
-      { "name": "속초홍게라면", "sodium": 1680.0, "calories": 500.0 }
+      { "name": "속초홍게라면", "sodium": 1680.0, "calories": 500.0 },
+      { "name": "팔도 짬뽕왕뚜껑", "sodium": 1740.0, "calories": 475.0 }
     ]
   },
   {
@@ -1593,10 +1593,10 @@
     "calories": 505.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "﻿오징어짬뽕큰사발면", "sodium": 1590.0, "calories": 525.0 },
       { "name": "튀김우동큰사발면", "sodium": 1590.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 }
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
     ]
   },
   {
@@ -1681,10 +1681,10 @@
     "calories": 500.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "﻿오징어짬뽕큰사발면", "sodium": 1590.0, "calories": 525.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 }
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "일품해물라면", "sodium": 1640.0, "calories": 505.0 },
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
     ]
   },
   {
@@ -1708,11 +1708,11 @@
     "sodium": 1670.0,
     "calories": 465.0,
     "result": [
-      { "name": "일품해물라면 왕컵", "sodium": 1620.0, "calories": 470.0 },
       { "name": "해물라면컵", "sodium": 1540.0, "calories": 480.0 },
-      { "name": "일품해물라면왕컵", "sodium": 1620.0, "calories": 470.0 },
       { "name": "일품해물라면", "sodium": 1640.0, "calories": 505.0 },
-      { "name": "팔도틈새라면 빨계떡", "sodium": 1650.0, "calories": 495.0 }
+      { "name": "팔도틈새라면 빨계떡", "sodium": 1650.0, "calories": 495.0 },
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 },
+      { "name": "팔도도시락봉지", "sodium": 1570.0, "calories": 475.0 }
     ]
   },
   {
@@ -1733,10 +1733,10 @@
     "calories": 380.0,
     "result": [
       { "name": "팔도 틈새라면 볶음면 컵", "sodium": 990.0, "calories": 430.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
-      { "name": "일품삼선짜장컵", "sodium": 950.0, "calories": 425.0 }
+      { "name": "일품삼선짜장컵", "sodium": 950.0, "calories": 425.0 },
+      { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 },
+      { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 }
     ]
   },
   {
@@ -1787,11 +1787,11 @@
     "sodium": 1160.0,
     "calories": 495.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
-      { "name": "팔도짜장면 왕컵", "sodium": 960.0, "calories": 515.0 }
+      { "name": "팔도짜장면 왕컵", "sodium": 960.0, "calories": 515.0 },
+      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 }
     ]
   },
   {
@@ -1908,7 +1908,6 @@
     "sodium": 1090.0,
     "calories": 530.0,
     "result": [
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
       { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
       { "name": "짜장볶이", "sodium": 870.0, "calories": 535.0 },
@@ -1929,10 +1928,10 @@
     "calories": 505.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "﻿오징어짬뽕큰사발면", "sodium": 1590.0, "calories": 525.0 },
       { "name": "튀김우동큰사발면", "sodium": 1590.0, "calories": 515.0 },
-      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 }
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
     ]
   },
   {
@@ -1996,7 +1995,7 @@
       { "name": "NEW 공화춘자장컵", "sodium": 1130.0, "calories": 620.0 },
       { "name": "올리브짜파게티", "sodium": 1180.0, "calories": 610.0 },
       { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 },
-      { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 }
+      { "name": "팔도짜장면", "sodium": 1170.0, "calories": 625.0 }
     ]
   },
   {
@@ -2211,11 +2210,11 @@
     "sodium": 1760.0,
     "calories": 480.0,
     "result": [
-      { "name": "무파마탕면큰사발면", "sodium": 1570.0, "calories": 495.0 },
       { "name": "우육탕큰사발면", "sodium": 1590.0, "calories": 520.0 },
       { "name": "무파마탕면", "sodium": 1720.0, "calories": 510.0 },
       { "name": "남자라면", "sodium": 1750.0, "calories": 485.0 },
-      { "name": "된장라면", "sodium": 1710.0, "calories": 495.0 }
+      { "name": "된장라면", "sodium": 1710.0, "calories": 495.0 },
+      { "name": "큰컵삼양라면 매운맛", "sodium": 1630.0, "calories": 485.0 }
     ]
   },
   {
@@ -2290,10 +2289,10 @@
     "calories": 505.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "튀김우동큰사발면", "sodium": 1590.0, "calories": 515.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
-      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 },
+      { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 }
     ]
   },
   {
@@ -2472,9 +2471,9 @@
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
       { "name": "무파마탕면큰사발면", "sodium": 1570.0, "calories": 495.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 }
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 },
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
     ]
   },
   {
@@ -2486,7 +2485,7 @@
       { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "짜왕매운맛큰사발면", "sodium": 1020.0, "calories": 470.0 },
       { "name": "gomgom호로록짜장라면", "sodium": 810.0, "calories": 380.0 },
-      { "name": "일품삼선짜장컵", "sodium": 950.0, "calories": 425.0 }
+      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 }
     ]
   },
   {
@@ -2567,7 +2566,7 @@
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "짜왕", "sodium": 1180.0, "calories": 605.0 },
-      { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 }
+      { "name": "양념치킨면", "sodium": 1250.0, "calories": 620.0 }
     ]
   },
   {
@@ -2595,11 +2594,11 @@
     "sodium": 1540.0,
     "calories": 485.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 },
-      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 },
+      { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 },
+      { "name": "짜장 불닭볶음면", "sodium": 1420.0, "calories": 560.0 }
     ]
   },
   {
@@ -2671,7 +2670,7 @@
       { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 },
       { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 },
       { "name": "컵 불닭볶음면", "sodium": 1296.0, "calories": 576.0 },
-      { "name": "큰컵 불닭볶음면", "sodium": 1302.9, "calories": 582.91 }
+      { "name": "짜장 불닭볶음면", "sodium": 1420.0, "calories": 560.0 }
     ]
   },
   {
@@ -2778,7 +2777,7 @@
       { "name": "불닭볶음면", "sodium": 1316.59, "calories": 545.18 },
       { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 },
       { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 },
-      { "name": "컵 불닭볶음면", "sodium": 1296.0, "calories": 576.0 }
+      { "name": "큰컵 불닭볶음탕면", "sodium": 1500.0, "calories": 455.0 }
     ]
   },
   {
@@ -2786,7 +2785,6 @@
     "sodium": 1190.0,
     "calories": 470.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
       {
@@ -2794,7 +2792,8 @@
         "sodium": 1160.0,
         "calories": 495.0
       },
-      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 }
+      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 },
+      { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 }
     ]
   },
   {
@@ -2805,8 +2804,7 @@
       { "name": "불닭볶음면", "sodium": 1316.59, "calories": 545.18 },
       { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 },
       { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 },
-      { "name": "컵 불닭볶음면", "sodium": 1296.0, "calories": 576.0 },
-      { "name": "큰컵 불닭볶음면", "sodium": 1302.9, "calories": 582.91 }
+      { "name": "오뚜기 진라면 순한맛", "sodium": 1490.0, "calories": 495.0 }
     ]
   },
   {
@@ -2863,10 +2861,9 @@
     "calories": 430.0,
     "result": [
       { "name": "불닭볶음면", "sodium": 1316.59, "calories": 545.18 },
-      { "name": "컵 불닭볶음면", "sodium": 1296.0, "calories": 576.0 },
-      { "name": "짜장 불닭볶음면", "sodium": 1420.0, "calories": 560.0 },
       { "name": "갓짜장", "sodium": 1180.0, "calories": 580.0 },
-      { "name": "큰컵 까르보불닭볶음면", "sodium": 1190.0, "calories": 470.0 }
+      { "name": "공화춘 유산슬라면", "sodium": 1120.0, "calories": 440.0 },
+      { "name": "﻿치킨이타고있어요", "sodium": 1210.0, "calories": 455.0 }
     ]
   },
   {
@@ -2887,10 +2884,10 @@
     "calories": 295.0,
     "result": [
       { "name": "팔도 틈새라면 볶음면 컵", "sodium": 990.0, "calories": 430.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "큰냄비우동", "sodium": 786.56, "calories": 304.0 },
-      { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 }
+      { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 },
+      { "name": "큰컵 치즈불닭볶음면", "sodium": 1000.0, "calories": 430.0 }
     ]
   },
   {
@@ -2899,10 +2896,10 @@
     "calories": 300.0,
     "result": [
       { "name": "팔도 mini 왕뚜껑", "sodium": 1240.0, "calories": 355.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "gomgom호로록짜장라면", "sodium": 810.0, "calories": 380.0 },
-      { "name": "일품삼선짜장컵", "sodium": 950.0, "calories": 425.0 }
+      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 },
+      { "name": "큰냄비우동", "sodium": 786.56, "calories": 304.0 }
     ]
   },
   {
@@ -2910,11 +2907,11 @@
     "sodium": 1120.0,
     "calories": 440.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "짜왕매운맛큰사발면", "sodium": 1020.0, "calories": 470.0 },
       { "name": "짜왕큰사발면", "sodium": 990.0, "calories": 495.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 }
+      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
+      { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
+      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 }
     ]
   },
   {
@@ -2922,11 +2919,11 @@
     "sodium": 1810.0,
     "calories": 475.0,
     "result": [
-      { "name": "무파마탕면큰사발면", "sodium": 1570.0, "calories": 495.0 },
       { "name": "﻿오징어짬뽕큰사발면", "sodium": 1590.0, "calories": 525.0 },
       { "name": "육개장큰사발면", "sodium": 1610.0, "calories": 490.0 },
       { "name": "무파마탕면", "sodium": 1720.0, "calories": 510.0 },
-      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 },
+      { "name": "된장라면", "sodium": 1710.0, "calories": 495.0 }
     ]
   },
   {
@@ -3015,10 +3012,10 @@
     "calories": 445.0,
     "result": [
       { "name": "컵 불닭볶음면", "sodium": 1296.0, "calories": 576.0 },
-      { "name": "큰컵 불닭볶음면", "sodium": 1302.9, "calories": 582.91 },
       { "name": "짜장 불닭볶음면", "sodium": 1420.0, "calories": 560.0 },
       { "name": "핵불닭볶음면", "sodium": 1450.0, "calories": 555.0 },
-      { "name": "큰컵 쫄볶이 불닭볶음면", "sodium": 1330.0, "calories": 485.0 }
+      { "name": "큰컵 쫄볶이 불닭볶음면", "sodium": 1330.0, "calories": 485.0 },
+      { "name": "큰컵 까르보불닭볶음면", "sodium": 1190.0, "calories": 470.0 }
     ]
   },
   {
@@ -3054,7 +3051,7 @@
       { "name": "불닭볶음면", "sodium": 1316.59, "calories": 545.18 },
       { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 },
       { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 },
-      { "name": "컵 불닭볶음면", "sodium": 1296.0, "calories": 576.0 }
+      { "name": "오뚜기 크림진짬뽕", "sodium": 970.0, "calories": 460.0 }
     ]
   },
   {
@@ -3108,11 +3105,11 @@
     "sodium": 1290.0,
     "calories": 530.0,
     "result": [
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
       { "name": "팔도짜장면", "sodium": 1170.0, "calories": 625.0 },
       { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 },
-      { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 }
+      { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 },
+      { "name": "짜장볶이", "sodium": 870.0, "calories": 535.0 }
     ]
   },
   {
@@ -3213,7 +3210,7 @@
       { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 },
       { "name": "팔도비비(BB)크림면", "sodium": 1190.0, "calories": 575.0 },
       { "name": "불닭볶음면", "sodium": 1316.59, "calories": 545.18 },
-      { "name": "컵 불닭볶음면", "sodium": 1296.0, "calories": 576.0 }
+      { "name": "오뚜기 철판뽀끼", "sodium": 1260.0, "calories": 530.0 }
     ]
   },
   {
@@ -3250,10 +3247,10 @@
     "calories": 425.0,
     "result": [
       { "name": "팔도 틈새라면 볶음면 컵", "sodium": 990.0, "calories": 430.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 },
-      { "name": "팔도비비(BB)크림면", "sodium": 1190.0, "calories": 575.0 }
+      { "name": "팔도비비(BB)크림면", "sodium": 1190.0, "calories": 575.0 },
+      { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 }
     ]
   },
   {
@@ -3309,9 +3306,9 @@
     "result": [
       { "name": "불닭볶음면", "sodium": 1316.59, "calories": 545.18 },
       { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 },
-      { "name": "컵 불닭볶음면", "sodium": 1296.0, "calories": 576.0 },
-      { "name": "짜장 불닭볶음면", "sodium": 1420.0, "calories": 560.0 },
-      { "name": "핵불닭볶음면", "sodium": 1450.0, "calories": 555.0 }
+      { "name": "오뚜기 진라면 순한맛", "sodium": 1490.0, "calories": 495.0 },
+      { "name": "오뚜기진라면매운맛", "sodium": 1490.0, "calories": 500.0 },
+      { "name": "오뚜기김치라면", "sodium": 1730.0, "calories": 525.0 }
     ]
   },
   {
@@ -3403,11 +3400,11 @@
     "sodium": 1490.0,
     "calories": 500.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 },
       { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 },
-      { "name": "컵 불닭볶음면", "sodium": 1296.0, "calories": 576.0 }
+      { "name": "컵 불닭볶음면", "sodium": 1296.0, "calories": 576.0 },
+      { "name": "짜장 불닭볶음면", "sodium": 1420.0, "calories": 560.0 }
     ]
   },
   {
@@ -3496,10 +3493,10 @@
     "calories": 405.0,
     "result": [
       { "name": "더왕뚜껑컵 순한맛", "sodium": 1690.0, "calories": 420.0 },
-      { "name": "무파마탕면큰사발면", "sodium": 1570.0, "calories": 495.0 },
       { "name": "무파마탕면", "sodium": 1720.0, "calories": 510.0 },
       { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 },
-      { "name": "된장라면", "sodium": 1710.0, "calories": 495.0 }
+      { "name": "된장라면", "sodium": 1710.0, "calories": 495.0 },
+      { "name": "﻿맛있는라면", "sodium": 1720.0, "calories": 480.0 }
     ]
   },
   {
@@ -3507,11 +3504,11 @@
     "sodium": 1450.0,
     "calories": 470.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 },
-      { "name": "팔도비비(BB)크림면", "sodium": 1190.0, "calories": 575.0 }
+      { "name": "팔도비비(BB)크림면", "sodium": 1190.0, "calories": 575.0 },
+      { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 },
+      { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 }
     ]
   },
   {
@@ -3574,11 +3571,11 @@
     "sodium": 1390.0,
     "calories": 380.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "팔도 비빔면 치즈컵", "sodium": 880.0, "calories": 455.0 },
-      { "name": "아임이 민생짜장", "sodium": 990.0, "calories": 485.0 }
+      { "name": "아임이 민생짜장", "sodium": 990.0, "calories": 485.0 },
+      { "name": "공화춘 유산슬라면", "sodium": 1120.0, "calories": 440.0 },
+      { "name": "오뚜기 리얼치즈라면", "sodium": 1370.0, "calories": 480.0 }
     ]
   },
   {
@@ -3586,7 +3583,6 @@
     "sodium": 1180.0,
     "calories": 430.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "요괴라면 크림크림맛", "sodium": 1150.0, "calories": 460.0 },
       { "name": "팔도 비빔면 치즈컵", "sodium": 880.0, "calories": 455.0 },
@@ -3594,7 +3590,8 @@
         "name": "홍석천‘S 홍라면 매운치즈볶음면",
         "sodium": 1160.0,
         "calories": 495.0
-      }
+      },
+      { "name": "일품삼선짜장", "sodium": 1010.0, "calories": 500.0 }
     ]
   },
   {
@@ -3603,10 +3600,10 @@
     "calories": 490.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "신라면 큰사발면", "sodium": 1550.0, "calories": 500.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
-      { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 }
+      { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 },
+      { "name": "짜왕매운맛", "sodium": 1250.0, "calories": 625.0 }
     ]
   },
   {
@@ -3626,11 +3623,11 @@
     "sodium": 1090.0,
     "calories": 510.0,
     "result": [
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
       { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
       { "name": "팔도짜장면 왕컵", "sodium": 960.0, "calories": 515.0 },
-      { "name": "자연드림 비빔면", "sodium": 1020.0, "calories": 525.0 }
+      { "name": "자연드림 비빔면", "sodium": 1020.0, "calories": 525.0 },
+      { "name": "﻿짜라볶이", "sodium": 990.0, "calories": 530.0 }
     ]
   },
   {
@@ -3666,7 +3663,7 @@
       { "name": "불닭볶음면", "sodium": 1316.59, "calories": 545.18 },
       { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 },
       { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 },
-      { "name": "컵 불닭볶음면", "sodium": 1296.0, "calories": 576.0 }
+      { "name": "참깨누룽지탕면", "sodium": 1550.0, "calories": 560.0 }
     ]
   },
   {
@@ -3738,10 +3735,10 @@
     "calories": 510.0,
     "result": [
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
-      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 },
+      { "name": "짜짜로니", "sodium": 1224.0, "calories": 591.41 },
+      { "name": "간짬뽕", "sodium": 1100.5, "calories": 570.82 }
     ]
   },
   {
@@ -3853,9 +3850,9 @@
     "result": [
       { "name": "봉희설렁탕컵", "sodium": 1780.0, "calories": 525.0 },
       { "name": "너구리큰사발면", "sodium": 1550.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "볶음너구리큰사발", "sodium": 1090.0, "calories": 515.0 },
-      { "name": "오징어짬뽕", "sodium": 1750.0, "calories": 510.0 }
+      { "name": "오징어짬뽕", "sodium": 1750.0, "calories": 510.0 },
+      { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
+      { "name": "육개장라면", "sodium": 1780.0, "calories": 515.0 }
     ]
   },
   {
@@ -3910,10 +3907,10 @@
     "calories": 505.0,
     "result": [
       { "name": "봉희설렁탕컵", "sodium": 1780.0, "calories": 525.0 },
-      { "name": "사천짜파게티큰사발면", "sodium": 1010.0, "calories": 535.0 },
       { "name": "사천짜파게티", "sodium": 1080.0, "calories": 600.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
-      { "name": "팔도짜장면 왕컵", "sodium": 960.0, "calories": 515.0 }
+      { "name": "팔도짜장면", "sodium": 1170.0, "calories": 625.0 },
+      { "name": "팔도 체다치즈 틈새라면", "sodium": 1520.0, "calories": 530.0 }
     ]
   },
   {
@@ -3921,11 +3918,11 @@
     "sodium": 1540.0,
     "calories": 480.0,
     "result": [
-      { "name": "볶음너구리큰사발면", "sodium": 1090.0, "calories": 515.0 },
       { "name": "볶음너구리", "sodium": 1280.0, "calories": 610.0 },
       { "name": "찰비빔면", "sodium": 1060.0, "calories": 555.0 },
       { "name": "순한너구리", "sodium": 1480.0, "calories": 500.0 },
-      { "name": "아임이 민생짜장", "sodium": 990.0, "calories": 485.0 }
+      { "name": "아임이 민생짜장", "sodium": 990.0, "calories": 485.0 },
+      { "name": "팔도비비(BB)크림면", "sodium": 1190.0, "calories": 575.0 }
     ]
   },
   {
