@@ -1,11 +1,11 @@
 import openai
 import pandas as pd 
-import json
+import csv
 import config
 
 with open('ramen_DB_final.json',encoding='UTF-8-sig') as f:
-    js = json.loads(f.read())
-df = pd.DataFrame(js)   
+    temp = csv.loads(f.read())
+df = pd.DataFrame(temp)   
 
 openai.api_key = config.api_key
 openai_model = 'text-embedding-ada-002'
